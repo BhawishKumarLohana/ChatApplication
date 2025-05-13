@@ -69,7 +69,23 @@ A multithreaded C++ chat server with XOR-based message encryption, supporting re
 - Make sure the server is running before launching the client.
 
 ## 📸 Demo
-Watch the live demo: [YouTube Demo Link](#)
+Watch the live demo:One thing I absolutely love about university? The projects.
+They push you to build something real — and learn so much in the process.
+Excited to share a quick demo of the multithreaded C++ chat server I’ve been building!
+This project supports:
+✅ Encrypted communication using XOR with hex encoding
+✅ Individual and group messaging
+✅ Real-time user and group list updates
+✅ Multithreading with proper mutex protection
+
+Whether you're learning about socket programming or exploring concurrency in C++, this walkthrough might give you a solid head start.
+
+GithubLink: [🔗https://github.com/BhawishKumarLohana/ChatApplication]
+
+🎥 Watch the full demo here: [🔗https://youtu.be/YYSP43V1WGY]
+👇 Feedback, questions, and ideas are always welcome!
+
+#cpp #socketprogramming #multithreading #networksecurity #linux #winsock #opensource #projectdemo #programming 
 
 ## 📬 Contributions & Feedback
 Pull requests, suggestions, or feedback are welcome!
